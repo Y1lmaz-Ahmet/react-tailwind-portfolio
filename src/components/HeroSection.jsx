@@ -11,13 +11,31 @@ const HeroSection = () => {
           Welkom op mijn portfolio
           <br />
         </p>
-        <a
-          href='#works'
-          className='inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700
+        <div className='grid gap-5'>
+          <a
+            href='#works'
+            className='inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700
 		   md:text-md'
-        >
-          bekijk mijn projecten
-        </a>
+          >
+            bekijk mijn projecten
+          </a>
+          <a
+            target='_blank'
+            href='https://www.linkedin.com/in/ahmet-yilmaz-0b4288210/'
+            className=' inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700
+		   md:text-md'
+          >
+            LinkedIn
+          </a>
+          <a
+            target='_blank'
+            href='https://github.com/Y1lmaz-Ahmet'
+            className='  inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700
+		   md:text-md'
+          >
+            Github
+          </a>
+        </div>
       </div>
     </div>
   );

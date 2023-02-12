@@ -7,13 +7,7 @@ const About = () => {
       <div className='w-full md:w6/12'>
         <SectionTitle>About me</SectionTitle>
         <p className='text-md text-gray-600 dark:text-gray-300'>
-          Lorem pariatur excepteur Lorem minim exercitation nostrud duis ex
-          exercitation cillum do. Culpa eiusmod deserunt ut sint esse sit nulla
-          fugiat pariatur aliqua aliqua magna ea. Qui exercitation esse
-          excepteur ipsum aliqua cillum consectetur labore exercitation amet.
-          Est incididunt mollit adipisicing ipsum pariatur sint labore minim
-          laboris labore. Incididunt officia aliqua qui quis do mollit duis elit
-          eu magna. Nulla in laboris aliqua qui cupidatat commodo Lorem.
+          Ik ben een gemotiveerd persoon die graag nieuwe technologieën leert.
         </p>
         <a
           href='mailto:ahmet.79@hotmail.be'
