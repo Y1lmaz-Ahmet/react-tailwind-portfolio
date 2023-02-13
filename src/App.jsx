@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import About from "./components/About";
+import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import Services from "./components/Services";
@@ -40,7 +40,7 @@ const App = () => {
           <HeroSection></HeroSection>
           <Services></Services>
           <Works></Works>
-          <About></About>
+          <Skills></Skills>
           <Footer></Footer>
         </div>
       </div>
