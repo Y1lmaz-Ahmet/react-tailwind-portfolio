@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className='flex items-center justify-center gap-10 md:gap-20 py-20 '>
       <div className='w-full md:w6/12'>
-        <SectionTitle>ervaring</SectionTitle>
+        <SectionTitle>Skills</SectionTitle>
         <div className='gap-4 justify-center'>
           <div className='text-white  rounded-md gap-6   bg-slate-300   dark:bg-slate-800 grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1'>
             {skills.map((item, index) => (

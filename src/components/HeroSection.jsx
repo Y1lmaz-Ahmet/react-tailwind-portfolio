@@ -8,10 +8,10 @@ const HeroSection = () => {
     >
       <div className='text-center justify-center items-center flex flex-col'>
         <h1 className='text-2xl md:text-4xl mb-1 md:mb-3 text-indigo-600 font-semibold dark:text-indigo-500'>
-          Hi, ik ben Ahmet Yilmaz
+          Hi, I'm Ahmet Yilmaz
         </h1>
         <p className='text-md   md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300'>
-          Welkom op mijn portfolio
+          Welcome on my Portfolio
           <br />
         </p>
         <div className='grid gap-5 lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1'>
@@ -20,7 +20,7 @@ const HeroSection = () => {
             className='inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700
 		   md:text-md'
           >
-            bekijk mijn projecten
+            Recent Projects
           </a>
           <a
             target='_blank'

@@ -5,19 +5,19 @@ export default [
   {
     title: "Responsive Design",
     description:
-      "Maak websites die zichtbaar zijn op apparaten van elk formaat met behulp van responsieve ontwerptechnieken, zoals relatieve maateenheden en mediaquery's.",
+      "Creating websites that are viewable on devices of any size using responsive design techniques such as relative units of measure and media queries.",
     icon: <MdWeb className='w-full h-full'></MdWeb>,
   },
   {
     title: "Wireframe",
     description:
-      "high-fidelity / low-fidelity ontwerp met Figma met behulp van: logo's, navigatie, zoekvelden, tekst, knoppen, afbeeldingen en video's",
+      "high-fidelity/low-fidelity design with Figma using: logos, navigation, search fields, text, buttons, images and videos",
     icon: <FaHandHoldingHeart className='w-full h-full'></FaHandHoldingHeart>,
   },
   {
     title: "Front End",
     description:
-      "Interactieve websites maken met HTML, CSS, Javascript en React / Vite.js",
+      "Creating interactive websites with HTML, CSS, Javascript and React / Vite.js",
     icon: <VscCode className='w-full h-full'></VscCode>,
   },
 ];
